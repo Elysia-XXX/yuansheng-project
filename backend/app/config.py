@@ -13,6 +13,7 @@ class Config:
     DB_USER = os.getenv("DB_USER", "postgres")
     DB_PASSWORD = os.getenv("DB_PASSWORD", "")
     DB_NAME = os.getenv("DB_NAME", "postgres")
+    CATALOG_DB_NAME = os.getenv("CATALOG_DB_NAME", "product_catalog")
 
     # 无密码时不拼 :password@，避免空凭据
     if DB_PASSWORD:
@@ -28,3 +29,8 @@ class Config:
 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_ENGINE_OPTIONS = {"pool_pre_ping": True}
+
+    # --- 大模型配置（密钥只从本地 .env / 系统环境读取）---
+    DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
+    DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
+    DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-flash")
