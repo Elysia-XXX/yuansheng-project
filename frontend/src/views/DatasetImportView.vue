@@ -161,7 +161,7 @@ async function handleUpload() {
         <span>客诉智能分析</span>
       </template>
       <p class="tip">
-        调用 DeepSeek，对尚未生成结果的 <code>dataset_info</code> 数据进行结构化整理，并写入
+        调用 Xiaomi MiMo，对尚未生成结果的 <code>dataset_info</code> 数据进行结构化整理，并写入
         <code>analysis_result</code> 表。每次最多处理 100 条，已分析数据会自动跳过。
       </p>
       <el-button type="success" :loading="analyzing" @click="handleAnalysis">

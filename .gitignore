@@ -1,25 +1,144 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# ============================
+# 通用忽略
+# ============================
 
-# Other files and folders
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+*.tmp
+
+# 编辑器/IDE 配置（保留 .project 等 Eclipse 文件，按需调整）
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
 .settings/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# ============================
+# 大文件 / 压缩包（防止误提交）
+# ============================
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.iso
+*.bin
+*.exe
+*.dmg
+*.pkg
+*.msi
+*.deb
+*.rpm
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# ============================
+# 敏感配置 / 环境变量
+# ============================
+# 忽略所有 .env 相关文件（但可保留 .env.example 作为模板，如果你选择保留的话）
+# 这里明确忽略 backend/.env.example 和所有 .env 文件
+.env
+.env.local
+.env.*.local
+backend/.env
+backend/.env.example
+frontend/.env
+frontend/.env.local
 
-# --- Python 后端 ---
+# ============================
+# Python 后端
+# ============================
+# 虚拟环境
 backend/.venv/
+backend/venv/
+backend/env/
+backend/ENV/
+backend/env.bak/
+backend/venv.bak/
+
+# Python 编译缓存
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
 *.egg-info/
-backend/.env
+dist/
+build/
+*.whl
+
+# 日志文件
+*.log
+*.err.log
+*.out.log
+backend/*.log
+backend/server.stderr.log
+backend/server.stdout.log
+backend/analyze_*.log
+backend/analyze_*.err.log
+
+# 数据库 / 本地数据
+*.db
+*.sqlite
+*.sqlite3
+
+# 临时文件
+*.tmp
+*.temp
+backend/*.tmp
+
+# ============================
+# Node.js / Vue 前端
+# ============================
+frontend/node_modules/
+frontend/.npm
+frontend/.yarn
+frontend/.pnp
+frontend/.pnp.js
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# 前端构建产物
+frontend/build/
+frontend/out/
+frontend/.cache
+
+# ============================
+# 测试 / 覆盖率
+# ============================
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+*.cover
+*.py,cover
+frontend/coverage/
+frontend/.nyc_output/
+
+# ============================
+# 其他项目特定目录
+# ============================
+# 如果你的 .zcode 是临时脚本目录，可以忽略
+.zcode/
+# docs/ 通常保留，但如果有临时生成的文件可单独忽略
+
+# ============================
+# 避免忽略重要的项目配置文件
+# ============================
+# 不忽略 .project、.actionScriptProperties、.flexProperties（按用户需求）
+# 也不忽略 package.json、requirements.txt 等
+
+# ============================
+# 防止误提交大文件（再次强调）
+# ============================
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.iso
+*.bin

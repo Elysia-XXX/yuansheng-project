@@ -2,7 +2,7 @@
 
 字段与 ``analysis_result`` 表一一对应，枚举值来自
 ``客诉标签分类_整理版.xlsx``。Instructor 会用本 Schema 约束并校验
-DeepSeek 的结构化输出。
+Xiaomi MiMo 的结构化输出。
 """
 from typing import Literal
 
@@ -30,6 +30,7 @@ PRODUCTION_STAGES = {
     "包装运输": {"包装防护", "物流装卸", "快递暴力"},
     "仓储配送": {"仓库发货", "库存积压", "错发漏发"},
     "安装调试": {"首次使用指导", "装配复杂度"},
+    "购买咨询": {"效果咨询", "功能咨询", "操作咨询", "其他咨询"},
 }
 
 PARTS = {
@@ -63,11 +64,12 @@ FunctionTag = Literal[
     "操作复杂", "容量虚标", "不理人", "维修慢", "推诿", "收费乱", "破损", "漏发", "包装简陋",
     "送货慢", "功效夸大", "参数不符", "赠品缺失", "使用咨询", "功能建议", "好评",
 ]
-ProductionStage = Literal["设计研发", "原材料", "生产制造", "质量检测", "包装运输", "仓储配送", "安装调试"]
+ProductionStage = Literal["设计研发", "原材料", "生产制造", "质量检测", "包装运输", "仓储配送", "安装调试", "购买咨询"]
 ProductionSubstage = Literal[
     "产品定义", "结构设计", "电路设计", "玻璃", "不锈钢", "塑料", "涂层", "电机", "电子元器件",
     "组装", "焊接", "注塑", "喷涂", "贴片", "来料检验", "过程检", "成品检", "老化测试",
     "包装防护", "物流装卸", "快递暴力", "仓库发货", "库存积压", "错发漏发", "首次使用指导", "装配复杂度",
+    "效果咨询", "功能咨询", "操作咨询", "其他咨询",
 ]
 PartCategory = Literal[
     "结构壳体", "动力系统", "加热系统", "控制与电路", "传感与保护", "容器内胆", "密封与紧固",
@@ -118,6 +120,29 @@ class ComplaintAnalysis(BaseModel):
         if not isinstance(data, dict):
             return data
         normalized = dict(data)
+
+        # 兼容 MiMo 自定义字段名 -> Schema 标准字段名
+        alias_map = {
+            "production_phase": "production_stage",
+            "production_phase_detail": "production_substage",
+            "component": "part_name",
+            "component_category": "part_category",
+            "fault_type": "problem_nature",
+            "fault_description": "problem_nature",
+            "appeal": "appeal_intent",
+            "question": "appeal_intent",
+        }
+        for alias, standard in alias_map.items():
+            if alias in normalized and standard not in normalized:
+                normalized[standard] = normalized.get(alias)
+            if alias in normalized:
+                normalized.pop(alias, None)
+
+        # 若 part_name 是字符串则归一为列表
+        if isinstance(normalized.get("part_name"), str):
+            normalized["part_name"] = [normalized["part_name"]] if normalized["part_name"] else []
+        if isinstance(normalized.get("part_category"), str):
+            normalized["part_category"] = [normalized["part_category"]] if normalized["part_category"] else []
 
         raw_tags = normalized.get("function_tag_l2") or []
         if isinstance(raw_tags, str):

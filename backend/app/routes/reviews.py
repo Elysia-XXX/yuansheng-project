@@ -22,7 +22,7 @@ DATASET_DETAIL_FIELDS = (
     "city_tier", "gender", "age", "use_scene", "user_type", "member_level",
     "price_band", "paid_amount", "original_amount", "platform", "promo_type",
     "warranty_status", "is_gift", "complaint_time", "duration_to_complaint",
-    "product_season", "complaint_season", "lifecycle_stage", "created_at",
+    "product_season", "complaint_season", "lifecycle_stage", "qa_answers", "created_at",
 )
 ANALYSIS_DETAIL_FIELDS = (
     "id", "dataset_info_id", "function_tag_l1", "function_tag_l2", "production_stage",

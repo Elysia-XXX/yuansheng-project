@@ -19,11 +19,13 @@ def create_app(config_class=Config) -> Flask:
     from .routes.dataset import bp as dataset_bp
     from .routes.analysis import bp as analysis_bp
     from .routes.reviews import bp as reviews_bp
+    from .routes.analytics import bp as analytics_bp
 
     app.register_blueprint(health_bp, url_prefix="/api")
     app.register_blueprint(dataset_bp)
     app.register_blueprint(analysis_bp)
     app.register_blueprint(reviews_bp)
+    app.register_blueprint(analytics_bp)
 
     # 确保业务表存在（已存在的表不受影响）
     with app.app_context():
@@ -33,6 +35,9 @@ def create_app(config_class=Config) -> Flask:
         # create_all 不会给已有表补列；这里做幂等的小型迁移。
         db.session.execute(
             text("ALTER TABLE dataset_info ADD COLUMN IF NOT EXISTS source_product_id VARCHAR(50)")
+        )
+        db.session.execute(
+            text("ALTER TABLE dataset_info ADD COLUMN IF NOT EXISTS qa_answers JSONB")
         )
         db.session.execute(text("""
             DO $$

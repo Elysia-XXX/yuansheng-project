@@ -30,7 +30,7 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_ENGINE_OPTIONS = {"pool_pre_ping": True}
 
-    # --- 大模型配置（密钥只从本地 .env / 系统环境读取）---
-    DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
-    DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-    DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-flash")
+    # --- Xiaomi MiMo（密钥只从本地 .env / 系统环境读取；修改后由 Flask 热重载）---
+    MIMO_API_KEY = os.getenv("MIMO_API_KEY", "")
+    MIMO_BASE_URL = os.getenv("MIMO_BASE_URL", "https://api.xiaomimimo.com/v1")
+    MIMO_MODEL = os.getenv("MIMO_MODEL", "mimo-v2.5-pro")

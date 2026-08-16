@@ -4,9 +4,56 @@ from sqlalchemy import exists
 
 from ..db import db
 from ..models import AnalysisResult, DatasetInfo
-from ..services.complaint_analyzer import analyze_dataset_info
+from ..services.complaint_analyzer import analyze_dataset_info, generate_complaint_insight
 
 bp = Blueprint("analysis", __name__, url_prefix="/api/analysis")
+
+
+@bp.post("/insights")
+def complaint_insights():
+    """根据当前前端节点对应的数据库记录生成聚合 AI 洞察。"""
+    body = request.get_json(silent=True) or {}
+    label = str(body.get("label") or "当前客诉集合").strip()[:200]
+    raw_ids = body.get("dataset_info_ids")
+    if not isinstance(raw_ids, list):
+        return jsonify({"error": "dataset_info_ids 必须是数组"}), 400
+    try:
+        ids = list(dict.fromkeys(int(value) for value in raw_ids))
+    except (TypeError, ValueError):
+        return jsonify({"error": "dataset_info_ids 只能包含整数"}), 400
+    if not 1 <= len(ids) <= 200:
+        return jsonify({"error": "每次请选择 1 到 200 条客诉"}), 400
+
+    rows = DatasetInfo.query.filter(DatasetInfo.id.in_(ids)).all()
+    by_id = {row.id: row for row in rows}
+    records = []
+    for item_id in ids:
+        row = by_id.get(item_id)
+        if row is None:
+            continue
+        records.append({
+            "id": row.id,
+            "content": row.customer_transcript,
+            "category": "/".join(filter(None, [row.category_l1, row.category_l2, row.category_l3])),
+            "sku": row.sku,
+            "platform": row.platform,
+            "touchpoint": row.touchpoint,
+            "complaint_time": str(row.complaint_time or row.created_at),
+        })
+    if not records:
+        return jsonify({"error": "没有找到可分析的客诉记录"}), 404
+
+    try:
+        insight = generate_complaint_insight(label, records)
+    except Exception as exc:  # noqa: BLE001 - 转为清晰的上游服务错误
+        current_app.logger.exception("MiMo 聚合洞察失败")
+        return jsonify({"error": f"MiMo AI 洞察失败：{str(exc)[:500]}"}), 502
+    return jsonify({
+        **insight.model_dump(),
+        "sample_count": len(records),
+        "provider": "Xiaomi MiMo",
+        "model": current_app.config["MIMO_MODEL"],
+    })
 
 
 @bp.post("/run")

@@ -25,6 +25,16 @@ python run.py                   # 监听 0.0.0.0:5000
 | 方法 | 路径          | 说明                     |
 | ---- | ------------- | ------------------------ |
 | GET  | `/api/health` | 服务与数据库连通性检查   |
+| GET  | `/api/v1/dashboard/home` | 经营首页统计 |
+| GET  | `/api/v1/analysis/category/dashboard` | 品类看板 |
+| GET  | `/api/v1/analysis/{dimension}/dashboard` | 分析维度看板 |
+| GET  | `/api/v1/analysis/{dimension}/complaints` | 分析维度客诉树 |
+| GET  | `/api/v1/data-import/options` | 数据来源与类型选项 |
+
+`dimension` 支持 `category`（仅客诉树）、`production`、`parts`、`function`、
+`customer`、`lifecycle`、`orders`、`semantic` 和 `brand`。其中 `brand` 为兼容
+前端路由保留的标识，实际展示“渠道与营销分析”，数据来自购买平台、触点渠道、
+促销类型和赠品状态。
 
 `/api/health` 返回示例（数据库正常时）：
 

@@ -3,6 +3,7 @@
 对应 schema.sql 中的 dataset_info 表。
 """
 from sqlalchemy import BigInteger, Boolean, DateTime, Numeric, String, Text, func
+from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import Mapped, mapped_column
 
 from ..db import db
@@ -54,6 +55,9 @@ class DatasetInfo(db.Model):
 
     # 生命周期
     lifecycle_stage: Mapped[str | None] = mapped_column(String(30))
+
+    # 问大家（S4）回答内容，JSON 数组：[{user, content, time, status}, ...]
+    qa_answers: Mapped[list | None] = mapped_column(JSONB)
 
     # 通用
     created_at: Mapped[object] = mapped_column(

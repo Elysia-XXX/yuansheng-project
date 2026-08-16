@@ -1,5 +1,12 @@
-# Vue 3 + TypeScript + Vite
+# 客诉分析前端
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vite 承载的单页客诉分析系统，入口为 `index.html`。页面使用 Tailwind CSS 与
+Chart.js，数据统一来自 Flask 的 `/api/v1` 分析接口；开发服务器会把 `/api`
+代理到 `http://localhost:5000`。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+```bash
+npm install
+npm run dev
+```
+
+生产构建执行 `npm run build`。

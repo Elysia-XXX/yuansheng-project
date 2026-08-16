@@ -1,0 +1,7042 @@
+[
+  {
+    "dataset_info_id": 20,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 32,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 33,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 34,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 35,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 36,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 37,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 38,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 39,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 40,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 41,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 42,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 43,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 44,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 45,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 46,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 47,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 48,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 49,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 50,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 51,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 52,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 53,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 54,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 55,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 56,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 57,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 58,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 59,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 60,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 61,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 62,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 63,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 64,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 65,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 66,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 67,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 68,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 69,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 70,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 71,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 72,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 73,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 74,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 75,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 76,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 77,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 78,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 79,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 80,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 81,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 82,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 83,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 84,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 85,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 86,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 87,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 88,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 89,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 90,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 91,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 92,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 93,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 94,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 95,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 96,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 97,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 98,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 99,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 100,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 101,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 102,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 103,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 104,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 105,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 106,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 107,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 108,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 109,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 110,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 111,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 112,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 113,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 114,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 115,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 116,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 117,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 118,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 119,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 120,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 121,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 122,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 123,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 124,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "容器内胆"
+    ],
+    "part_name": [
+      "内胆/锅体（炖锅/饭煲）"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 125,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 126,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 127,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 128,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 129,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 130,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 131,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 132,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 133,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 134,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 135,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 136,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 137,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 138,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 139,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 140,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 141,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "容器内胆"
+    ],
+    "part_name": [
+      "内胆/锅体（炖锅/饭煲）"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 142,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 143,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "容器内胆"
+    ],
+    "part_name": [
+      "内胆/锅体（炖锅/饭煲）"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 144,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 145,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 146,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 147,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 148,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 149,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 150,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 151,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 152,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 153,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 154,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 155,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 156,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 157,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 158,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 159,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 160,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 161,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 162,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 163,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 164,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 165,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 166,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 167,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 168,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 169,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 170,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 171,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 172,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 173,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 174,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 175,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 176,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 177,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 178,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 179,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 180,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 181,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 182,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 183,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 184,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 185,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 186,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 187,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 188,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 189,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 190,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 191,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 192,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 193,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 194,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 195,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 196,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 197,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 198,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 199,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 200,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 201,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 202,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 203,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 204,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 205,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 206,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 207,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 208,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 209,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 210,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 211,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 212,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 213,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 214,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 215,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 216,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 217,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 218,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 219,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 220,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 221,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 222,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 223,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 224,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 225,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 226,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 227,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 228,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 229,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 230,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 231,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 232,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 233,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 234,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 235,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 236,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 237,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 238,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 239,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 240,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 241,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 242,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 243,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 244,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 245,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 246,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 247,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 248,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 249,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 250,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 251,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 252,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 253,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 254,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 255,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "容器内胆"
+    ],
+    "part_name": [
+      "内胆/锅体（炖锅/饭煲）"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 256,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 257,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 258,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 259,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 260,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 261,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 262,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 263,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 264,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 265,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 266,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 267,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 268,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 269,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 270,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 271,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 272,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 273,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 274,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 275,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 276,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 277,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 278,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 279,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 280,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 281,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 282,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 283,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 284,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 285,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 286,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 287,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 288,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 289,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 290,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 291,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 292,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 293,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 294,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 295,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 296,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 297,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 298,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 299,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 300,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 301,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 302,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 303,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 304,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 305,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 306,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 307,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 308,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 309,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 310,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 311,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 312,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 313,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 314,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 315,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 316,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 317,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 318,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 319,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 320,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 321,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 322,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 323,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 324,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 325,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 326,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 327,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 328,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 329,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 330,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 331,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 332,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 333,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 334,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 335,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 336,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 337,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 338,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 339,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 340,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 341,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 342,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "密封与紧固"
+    ],
+    "part_name": [
+      "密封圈/密封垫"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 343,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 344,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 345,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 346,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 347,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 348,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 349,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 350,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 351,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 352,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 353,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 354,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 355,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 356,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 357,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 358,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 359,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 360,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 361,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 362,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 363,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 364,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 365,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 366,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 367,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 368,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 369,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 370,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 371,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 372,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 373,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 374,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 375,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 376,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 377,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 378,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 379,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 380,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 381,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 382,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 383,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 384,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 385,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 386,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 387,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 388,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 389,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 390,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 391,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 392,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 393,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 394,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 395,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 396,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 397,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 398,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 399,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 400,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 401,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 402,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 403,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 404,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 405,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 406,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 407,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 408,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 409,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 410,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 411,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 412,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 413,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 414,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 415,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 416,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 417,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 418,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 419,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 420,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 421,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 422,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 423,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 424,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 425,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 426,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 427,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 428,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 429,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 430,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 431,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 432,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 433,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 434,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 435,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 436,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 437,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 438,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 439,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 440,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 441,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 442,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 443,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 444,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 445,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 446,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 447,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 448,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 449,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 450,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 451,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 452,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 453,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 454,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 455,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 456,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 457,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 458,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 459,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 460,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 461,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 462,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 463,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 464,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 465,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 466,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 467,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 468,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 469,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 470,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 471,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 472,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 473,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 474,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 475,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 476,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 477,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 478,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 479,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 480,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 481,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 482,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 483,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 484,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 485,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 486,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 487,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 488,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 489,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 490,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 491,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 492,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 493,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 494,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 495,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 496,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 497,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 498,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 499,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 500,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 501,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 502,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 503,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 504,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 505,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 506,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 507,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 508,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 509,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 510,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 511,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 512,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 513,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 514,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 515,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 516,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 517,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 518,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 519,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 520,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 521,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 522,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 523,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 524,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 525,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 526,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 527,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 528,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 529,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 530,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 531,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 532,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 533,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 534,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 535,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 536,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 537,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 538,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 539,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 540,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 541,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 542,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 543,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 544,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 545,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 546,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 547,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 548,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 549,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 550,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 551,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 552,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 553,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 554,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 555,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 556,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 557,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 558,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 559,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 560,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 561,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 562,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 563,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 564,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 565,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 566,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 567,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 568,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 569,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 570,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 571,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 572,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 573,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 574,
+    "production_stage": "原材料",
+    "production_substage": "涂层",
+    "part_category": [
+      "结构壳体"
+    ],
+    "part_name": [
+      "机身外壳"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 575,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 576,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 577,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 578,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 579,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 580,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 581,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 582,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 583,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 584,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 585,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 586,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 587,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 588,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 589,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 590,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 591,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 592,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 593,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 594,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 595,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 596,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 597,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 598,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 599,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 600,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 601,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 602,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 603,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 604,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 605,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 606,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 607,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 608,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 609,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 610,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 611,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 612,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 613,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 614,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 615,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 616,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 617,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 618,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 619,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 620,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 621,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 622,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 623,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 624,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 625,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 626,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 627,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 628,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 629,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 630,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 631,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 632,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 633,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 634,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 635,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 636,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 637,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 638,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 639,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 640,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 641,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 642,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 643,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 644,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 645,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 646,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 647,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 648,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 649,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 650,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 651,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 652,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 653,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 654,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 655,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 656,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 657,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 658,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 659,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 660,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 661,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 662,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 663,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 664,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 665,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 666,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 667,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 668,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 669,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 670,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 671,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 672,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 673,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 674,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 675,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 676,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 677,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 678,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 679,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 680,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 681,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 682,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 683,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 684,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 685,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 686,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 687,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 688,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 689,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 690,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 691,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 692,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 693,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 694,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 695,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 696,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 697,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 698,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 699,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 700,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 701,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 702,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 703,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 704,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 705,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 706,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 707,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 708,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 709,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 710,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 711,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 712,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 713,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 714,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 715,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 716,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 717,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 718,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 719,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 720,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 721,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 722,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 723,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 724,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 725,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 726,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 727,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 728,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 729,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 730,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 731,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 732,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 733,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 734,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 735,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 736,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 737,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 738,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 739,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 740,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 741,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 742,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 743,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 744,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 745,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 746,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 747,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 748,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 749,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 750,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 751,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 752,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 753,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 754,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 755,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 756,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 757,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 758,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 759,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 760,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 761,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 762,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 763,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 764,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 765,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 766,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 767,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 768,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 769,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 770,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 771,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 772,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 773,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 774,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 775,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 776,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 777,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 778,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 779,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 780,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 781,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 782,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 783,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 784,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 785,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 786,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 787,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 788,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 789,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 790,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 791,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 792,
+    "production_stage": "原材料",
+    "production_substage": "电子元器件",
+    "part_category": [
+      "线束与电源"
+    ],
+    "part_name": [
+      "电池包"
+    ],
+    "problem_nature": "功能不符"
+  },
+  {
+    "dataset_info_id": 793,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 794,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 795,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 796,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 797,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 798,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 799,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 800,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 801,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 802,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 803,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 804,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 805,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 806,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 807,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 808,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 809,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 810,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 811,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 812,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 813,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 814,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 815,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 816,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 817,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 818,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 819,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 820,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 821,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 822,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 823,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 824,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 825,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 826,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 827,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 828,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 829,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 830,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 831,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 832,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 833,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 834,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 835,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 836,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 837,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 838,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 839,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 840,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 841,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 842,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 843,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 844,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 845,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 846,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 847,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 848,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 849,
+    "production_stage": "生产制造",
+    "production_substage": "组装",
+    "part_category": [
+      "动力系统"
+    ],
+    "part_name": [
+      "电机"
+    ],
+    "problem_nature": "质量缺陷"
+  },
+  {
+    "dataset_info_id": 850,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 851,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 852,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 853,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 854,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 855,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 856,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 857,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 858,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [
+      "功能执行件"
+    ],
+    "part_name": [
+      "滤网/滤篮"
+    ],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 859,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 860,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 861,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 862,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 863,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 864,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 865,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 866,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  },
+  {
+    "dataset_info_id": 867,
+    "production_stage": "安装调试",
+    "production_substage": "首次使用指导",
+    "part_category": [],
+    "part_name": [],
+    "problem_nature": "体验不佳"
+  }
+]
