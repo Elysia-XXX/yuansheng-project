@@ -1,5 +1,8 @@
 # 原声分析平台
 
+> **参赛试用请先阅读 [TRIAL.md](./TRIAL.md)**：含体验链接、测试账号、自备 Key 部署步骤与密钥安全约定。
+> 线上正式版的大模型 Key 可能过期，仓库另提供**免 Key 体验版**用于评审。
+
 根据客户原声进行分析的 Web 应用。前后端分离架构：
 
 - **前端**：Vue 3 + Vite + TypeScript + Element Plus（`frontend/`）
