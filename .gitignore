@@ -142,3 +142,12 @@ frontend/.nyc_output/
 *.7z
 *.iso
 *.bin
+
+# ============================
+# WorkBuddy 本地产物（不入库）
+# .genie / .wbapp* 为应用发布标记；.workbuddy/ 为本地工作区数据
+# 仅忽略，不删除；这些文件保留在本地供工具使用
+# ============================
+.workbuddy/
+*.genie
+.wbapp*
