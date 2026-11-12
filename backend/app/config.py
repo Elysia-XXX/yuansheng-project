@@ -7,6 +7,10 @@ load_dotenv()
 
 
 class Config:
+    AGENT_DEMO_MODE = os.getenv("AGENT_DEMO_MODE", "false").lower() == "true"
+    AGENT_API_KEY = os.getenv("AGENT_API_KEY", os.getenv("MIMO_API_KEY", ""))
+    AGENT_BASE_URL = os.getenv("AGENT_BASE_URL", os.getenv("MIMO_BASE_URL", "https://api.xiaomimimo.com/v1"))
+    AGENT_MODEL = os.getenv("AGENT_MODEL", os.getenv("MIMO_MODEL", "mimo-v2.5-pro"))
     # --- 数据库配置 ---
     DB_HOST = os.getenv("DB_HOST", "localhost")
     DB_PORT = os.getenv("DB_PORT", "5432")
