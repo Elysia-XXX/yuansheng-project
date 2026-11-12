@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import AgentView from '../views/AgentView.vue'
 import DatasetImportView from '../views/DatasetImportView.vue'
 import DatasetSingleView from '../views/DatasetSingleView.vue'
 import CustomerReviewsView from '../views/CustomerReviewsView.vue'
@@ -10,6 +11,11 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
+      component: AgentView,
+    },
+    {
+      path: '/status',
+      name: 'status',
       component: HomeView,
     },
     {

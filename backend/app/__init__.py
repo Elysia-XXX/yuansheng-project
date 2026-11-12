@@ -11,6 +11,13 @@ def create_app(config_class=Config) -> Flask:
     app = Flask(__name__)
     app.config.from_object(config_class)
 
+    from .routes.agent import bp as agent_bp
+    app.register_blueprint(agent_bp)
+    # 演示模式显式隔离，不连接或修改业务数据库。
+    if app.config.get("AGENT_DEMO_MODE"):
+        CORS(app)
+        return app
+
     CORS(app)  # 开发期放开跨域；生产可收紧为具体前端域名
     db.init_app(app)
 
